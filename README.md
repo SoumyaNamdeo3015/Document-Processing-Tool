@@ -44,6 +44,3 @@ In the second part, we have to implement a search mechanism to find a string in 
 
 4. **`~SearchEngine()`**: Destroy the `SearchEngine` instance created for the document.
 
----
-
-This markdown file provides a clear and structured description of the tasks and functions to be implemented for creating a search engine and dictionary for word counts in a text corpus. Follow the guidelines carefully to ensure correct and efficient implementation.
