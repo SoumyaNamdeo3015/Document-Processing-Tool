@@ -25,7 +25,9 @@ Our task in this part is to create a dictionary data structure using AVL Trees t
 
 ## 2. Pattern Search
 
-In the second part, we have to implement a search mechanism to find a string in the document. Given any pattern `p`, you must return a list of all the offsets in the document where the pattern is present. The pattern can start and end in the middle of words in the document. This is implemented using the Horspool Algorithm for pattern searching.
+In the second part, we have to implement a search mechanism to find a string in the document. Given any pattern `p`, we obtain a list of all the offsets in the document where the pattern is present. The pattern can start and end in the middle of words in the document. This is implemented using the Horspool Algorithm for pattern searching. [Boyer–Moore–Horspool algorithm](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore%E2%80%93Horspool_algorithm)
+
+
 
 ### Functions to Implement in `search.cpp`
 
